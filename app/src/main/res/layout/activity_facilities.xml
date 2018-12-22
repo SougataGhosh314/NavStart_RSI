@@ -23,9 +23,10 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="\ \n--> Facilities"
+                android:text="\ \nFacilities"
+                android:paddingLeft="4dp"
                 android:textStyle="bold"
-                android:textSize="16dp"
+                android:textSize="24dp"
                 android:textColor="@color/colorPrimaryDark"
                 />
 
@@ -61,7 +62,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#6d8efa"
+                app:cardBackgroundColor="#ffffff"
                 android:clickable="true"
                 >
 
@@ -69,7 +70,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#6d8efa">
+                    android:background="#ffffff">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -129,7 +130,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -137,7 +138,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -197,7 +198,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -205,7 +206,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -265,7 +266,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -273,7 +274,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -333,7 +334,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -341,7 +342,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -401,7 +402,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -409,7 +410,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -469,7 +470,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -477,7 +478,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
@@ -537,7 +538,7 @@
                 app:contentPadding="16dp"
                 app:cardElevation="16dp"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#aca3a3"
+                app:cardBackgroundColor="#FFFFFF"
                 android:clickable="true"
                 >
 
@@ -545,7 +546,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
-                    android:background="#aca3a3">
+                    android:background="#FFFFFF">
 
                     <TextView
                         style="@style/Base.TextAppearance.AppCompat.Headline"
