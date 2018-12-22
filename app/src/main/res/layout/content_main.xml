@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#000000"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context=".MainActivity"
     tools:showIn="@layout/app_bar_main">
@@ -40,12 +41,12 @@
         android:textStyle="bold"
         />
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Copyright © www.rsipune.org. All rights reserved."
-            android:textColor="#0254d7"
-            android:textAlignment="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copyright © www.rsipune.org. All rights reserved."
+        android:textColor="#F7D00C"
+        android:textAlignment="center"/>
 
     </LinearLayout>
 
