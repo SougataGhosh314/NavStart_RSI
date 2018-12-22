@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactUsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\ \n--> Contact Us"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="@color/colorPrimaryDark"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/contactUs_ID"
+            android:text="@string/contactUs"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:textSize="12dp"
+            android:textColor="@color/colorPrimary"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#000000"
+            android:text="Go Back"
+            android:textColor="#F7D00c"
+            android:id="@+id/back_4"/>
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
